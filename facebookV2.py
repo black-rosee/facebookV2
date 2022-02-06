@@ -54,11 +54,11 @@ _H_ = "\x1b[0;92m" # Hijau
 _U_ = "\x1b[0;95m" # Ungu
 
 ### Logo
-_logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
-_logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
-_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• ROSE OF DARKNESS •  %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sARGECA 0910 CYBER TEAM  %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s ARIEF BLACK CYBER    └─────────────────────────┘'%(_U_))
+_logo_line_1_ = ('%s$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#'%(_P_))
+_logo_line_2_ = ('%sGITHUB   : https://github.com/black-rosee/'%(_P_,_U_))
+_logo_line_3_ = ('%sFACEBOOK : https://www.facebook.com/profile.php?id=100076558267158'%(_P_,_U_,_P_,_U_))
+_logo_line_4_ = ('%sAUTHOR   : ROSE OF DARKNESS ARGECA 0910 BLACK ROSE'%(_P_,_U_,_P_,_U_))
+_logo_line_5_ = ('%s$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#'%(_U_))
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
